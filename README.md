@@ -36,7 +36,7 @@ Run the application: npx expo start (if using Expo) or npx react-native run-andr
 Contributions are welcome! Please feel free to submit pull requests or open issues.
 
 # License
-[© 2025 Juan Molina Brusatti]
+© 2025 Juan Molina Brusatti
 
 
 
