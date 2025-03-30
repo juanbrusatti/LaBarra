@@ -23,8 +23,7 @@ JavaScript
 Expo Router
 
 # Installation
-Clone the repository: git clone [[repository URL](https://github.com/juanbrusatti/LaBarra.git
-)]
+Clone the repository: git clone https://github.com/juanbrusatti/LaBarra.git
 
 Navigate to the project directory: cd LaBarra
 
